@@ -1,3 +1,13 @@
+# Deprecated
+insted of this, use...
+```bash
+npm create svelte@latest myapp
+cd myapp
+npm i
+npx svelte-add@latest tailwindcss --daisyui=true --typography=true
+```
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
